@@ -1,0 +1,16 @@
+# Vivado generated files — do not commit
+ids_hw.runs/
+ids_hw.cache/
+ids_hw.hw/
+ids_hw.ip_user_files/
+ids_hw.sim/
+ids_hw.gen/
+*.jou
+*.log
+*.str
+*.xpr
+*.bit
+*.ltx
+*.mcs
+*.prm
+NA/
